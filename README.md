@@ -22,7 +22,7 @@ Mask-DINO 모델: Object Detection과 Segmentation을 통합하는 Framework로 
 ***
 
 ## 설치 방법
-[설치 방법](INSTALL.md).
+[설치 방법](INSTALL.md)
 
 ![MaskDINO](figures/framework.jpg)
 
