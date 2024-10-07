@@ -1,0 +1,4 @@
+# ninja log v5
+0	2446	1691714228978754656	/home/hunjin/MaskDINO/maskdino/modeling/pixel_decoder/ops/build/temp.linux-x86_64-cpython-38/home/hunjin/MaskDINO/maskdino/modeling/pixel_decoder/ops/src/cpu/ms_deform_attn_cpu.o	dcb9353eba4ce8d3
+1	8351	1691714234878798629	/home/hunjin/MaskDINO/maskdino/modeling/pixel_decoder/ops/build/temp.linux-x86_64-cpython-38/home/hunjin/MaskDINO/maskdino/modeling/pixel_decoder/ops/src/cuda/ms_deform_attn_cuda.o	105678a8bd9046fd
+1	14534	1691714241058844568	/home/hunjin/MaskDINO/maskdino/modeling/pixel_decoder/ops/build/temp.linux-x86_64-cpython-38/home/hunjin/MaskDINO/maskdino/modeling/pixel_decoder/ops/src/vision.o	1f4093d426ece047
